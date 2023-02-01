@@ -1,2 +1,3 @@
 # rust
 rust programming 
+init
